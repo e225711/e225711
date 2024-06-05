@@ -1,4 +1,4 @@
-# About Me 👋
+# こんにちは！ 👋
 
 現在、大学3年次でコンピュータサイエンスを専攻しており、2026年に卒業予定です。  
 バックエンドに強いソフトウェアエンジニアを目指してます！
@@ -12,7 +12,6 @@
 
 ## スキル
 
-- **スキル**
   ![](https://skillicons.dev/icons?i=html,css,javascript,php,rails,python)
 
   ![](https://github-readme-stats.vercel.app/api/top-langs?username=e225711&show_icons=true&locale=en&layout=compact)

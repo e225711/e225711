@@ -28,7 +28,7 @@
 - **GitHub**: [ポートフォリオサイト](https://github.com/e225711/portfolio-site)
 
 ### 翻訳と単語帳を組み合わせたアプリOBLIVION
-- **App Store URL**: [Appleに申請中]()
+- **App Store URL**: Appleに申請中
 
 ### Markdown to HTML
 MarkdownテキストをHTML形式に変換するウェブアプリケーションです。  

@@ -3,14 +3,15 @@
 現在、大学3年次でコンピュータサイエンスを専攻しており、2026年に卒業予定です。  
 バックエンドに強いエンジニアを目指してます！
 
-詳しい自己紹介は、こちらの[ポートフォリオサイト](https://resume.kohagura8888.com/index.html)でご覧できます。
+私のポートフォリオサイトでは、これまでの取り組みをシンプルにまとめていますので、ぜひご覧ください。
+こちらの[ポートフォリオサイトのリンク](https://resume.kohagura8888.com/index.html)でご覧できます。
 
 ## 自己紹介
 
 - **専攻**: コンピュータサイエンス
 - **卒業年度**: 2026年
 - **ベンチプレス最大重量**: 110kg（強い体、強い心！）
-- **現在、取り組んでること**: 作りたいアプリの開発
+- **現在、取り組んでること**: OBLIVIONの開発、エンジニアインターン
 
 ## スキル
 
@@ -19,6 +20,14 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs?username=e225711&show_icons=true&locale=en&layout=compact)
 
 ## プロジェクト
+
+### ポートフォリオサイト
+私についてまとめたサイトです。
+- **Site URL**: [ポートフォリオサイト](https://resume.kohagura8888.com/)
+- **GitHub**: [ポートフォリオサイト](https://github.com/e225711/portfolio-site)
+
+### 翻訳と単語帳を組み合わせたアプリOBLIVION
+- **App Store URL**: [Appleに申請中]()
 
 ### Markdown to HTML
 MarkdownテキストをHTML形式に変換するウェブアプリケーションです。  

@@ -5,7 +5,7 @@
 
 私のポートフォリオサイトでは、これまでの取り組みを詳しくにまとめていますので、ぜひご覧ください。
 
-こちらの[ポートフォリオサイトのリンク](https://resume.kohagura8888.com/index.html)でご覧できます。
+こちらの[ポートフォリオサイトのリンク](https://e225711.github.io/portfolio-site/)でご覧できます。
 
 ## 自己紹介
 
@@ -24,7 +24,7 @@
 
 ### ポートフォリオサイト
 私についてまとめたサイトです。
-- **Site URL**: [ポートフォリオサイト](https://resume.kohagura8888.com/)
+- **Site URL**: [ポートフォリオサイト](https://e225711.github.io/portfolio-site/)
 - **GitHub**: [ポートフォリオサイト](https://github.com/e225711/portfolio-site)
 
 ### 翻訳と単語帳を組み合わせたアプリOBLIVION
@@ -32,7 +32,6 @@
 
 ### Markdown to HTML
 MarkdownテキストをHTML形式に変換するウェブアプリケーションです。  
-- **Web App**: [Markdown to HTML](https://mdtohtml.kohagura8888.com/)
 - **GitHub**: [Markdown to HTML](https://github.com/e225711/project-markdown-to-html)
 
 ### Notes App

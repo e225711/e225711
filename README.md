@@ -40,7 +40,6 @@ MarkdownテキストをHTML形式に変換するウェブアプリケーショ�
 
 ### Lorem Ipsum Generator
 Lorem Ipsumテキストを生成するウェブアプリケーションです。  
-- **Web App**: [Lorem Ipsum Generator](https://userlorem.kohagura8888.com/)
 - **GitHub**: [Lorem Ipsum Generator](https://github.com/e225711/user-lorem-ipsums)
 
 ### アクティビティ検索アプリケーション
